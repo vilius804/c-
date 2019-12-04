@@ -1,0 +1,5 @@
+Jonas 5.3 19
+Antanas 5.2 18
+Ignas 4.2 16
+Tadas 5.1 23
+Saulius 6.6 42

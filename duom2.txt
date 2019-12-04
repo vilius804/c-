@@ -1,0 +1,7 @@
+Gedas 5.4 25
+Darius 4.2 24
+Tomas 4.6 21
+Giedrius 5.2 26
+Lukas 5.6 23
+Gabrielius 5.6 21
+Kornelijus 5.9 28
